@@ -1,5 +1,5 @@
 ## Projeto
-O projeto é um tema feito do zero para wordpress
+O projeto é um tema feito do zero para wordpress.
 ## Tecnologias
 • HTML5<br>
 • CSS3<br>
